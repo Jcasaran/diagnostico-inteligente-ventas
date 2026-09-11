@@ -127,6 +127,52 @@ with st.sidebar:
         st.caption("Ejecutivos disponibles")
         st.write(" · ".join(st.session_state.executives))
 
+        st.divider()
+        st.caption("Eliminar un ejecutivo")
+        delete_rep = st.selectbox(
+            "Ejecutivo que deseas eliminar",
+            [""] + st.session_state.executives,
+            key="delete_rep",
+        )
+        if delete_rep:
+            assigned_count = int(
+                (st.session_state.crm_df["sales_rep"] == delete_rep).sum()
+            )
+            replacements = [
+                rep for rep in st.session_state.executives if rep != delete_rep
+            ]
+            if assigned_count and replacements:
+                st.warning(
+                    f"{delete_rep} tiene {assigned_count} oportunidades. "
+                    "Selecciona quién las recibirá."
+                )
+                replacement_rep = st.selectbox(
+                    "Reasignar oportunidades a",
+                    replacements,
+                    key="replacement_rep",
+                )
+                if st.button(
+                    "Reasignar y eliminar ejecutivo",
+                    use_container_width=True,
+                    type="primary",
+                ):
+                    raw_df = st.session_state.crm_df[INPUT_COLUMNS].copy()
+                    raw_df.loc[raw_df["sales_rep"] == delete_rep, "sales_rep"] = replacement_rep
+                    st.session_state.crm_df = enrich_dataframe(raw_df)
+                    st.session_state.executives.remove(delete_rep)
+                    st.success(
+                        f"{assigned_count} oportunidades transferidas a {replacement_rep}. "
+                        f"{delete_rep} fue eliminado."
+                    )
+            elif assigned_count:
+                st.warning(
+                    "No puedes eliminar al único ejecutivo mientras tenga oportunidades. "
+                    "Agrega primero otro ejecutivo para poder reasignarlas."
+                )
+            elif st.button("Eliminar ejecutivo", use_container_width=True):
+                st.session_state.executives.remove(delete_rep)
+                st.success(f"Ejecutivo eliminado: {delete_rep}")
+
     with st.expander("Países y mercados"):
         new_country = st.text_input("Agregar otro país", placeholder="Ej. España")
         if st.button("Agregar país", use_container_width=True):
