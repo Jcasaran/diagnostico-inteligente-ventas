@@ -1,0 +1,601 @@
+opportunity_id,created_date,expected_close_date,close_date,stage,amount_usd,sales_rep,industry,country,lead_source,last_activity_date,loss_reason
+OPP-0401,2025-07-08,2025-11-05,,Discovery,18364.58,Andrea,Retail,México,Outbound,2026-05-14,
+OPP-0161,2025-07-09,2025-11-06,2025-11-04,Closed Won,11460.53,Sofía,Servicios,México,Outbound,2025-10-11,
+OPP-0511,2025-07-10,2025-08-24,,Qualification,14181.4,Andrea,Retail,Colombia,Partner,2026-02-25,
+OPP-0145,2025-07-11,2025-08-23,,Proposal,8018.16,Diego,Logística,Perú,Outbound,2026-05-27,
+OPP-0356,2025-07-11,2025-09-10,,Proposal,20200.09,Mariana,Finanzas,Colombia,Partner,2025-08-19,
+OPP-0347,2025-07-11,2025-08-12,,Qualification,1704.06,Sofía,Retail,México,Outbound,2025-08-30,
+OPP-0265,2025-07-12,2025-08-19,2025-08-23,Closed Won,7017.67,Sofía,Retail,Colombia,Outbound,2025-07-26,
+OPP-0555,2025-07-14,2025-12-09,,Discovery,15232.43,Andrea,Tecnología,Chile,Partner,2026-04-28,
+OPP-0141,2025-07-15,2025-12-06,2025-09-13,Closed Lost,19821.03,Sofía,Finanzas,México,Outbound,2025-07-30,No decision
+OPP-0594,2025-07-16,2025-11-22,,Qualification,6824.54,Sofía,Finanzas,México,Outbound,2025-09-06,
+OPP-0012,2025-07-17,2025-12-04,,Negotiation,11269.47,Andrea,Finanzas,México,Outbound,2025-09-26,
+OPP-0325,2025-07-18,2025-11-03,2025-08-14,Closed Lost,9558.72,Camilo,Retail,México,Evento,2025-07-26,Precio
+OPP-0441,2025-07-19,2025-12-07,,Qualification,1555.95,Sofía,Tecnología,Perú,Partner,2025-09-24,
+OPP-0404,2025-07-19,2025-09-26,2025-11-29,Closed Lost,32647.65,Andrea,Logística,México,Partner,2025-09-12,Sin prioridad
+OPP-0355,2025-07-20,2026-01-13,2025-11-21,Closed Lost,15458.39,Andrea,Finanzas,México,Referido,2025-09-19,No decision
+OPP-0208,2025-07-20,2025-12-12,2025-09-19,Closed Lost,13538.41,Andrea,Seguros,México,Partner,2025-08-06,Precio
+OPP-0417,2025-07-20,2025-09-15,2025-11-12,Closed Won,12010.51,Andrea,Seguros,México,Partner,2025-09-14,
+OPP-0046,2025-07-20,2025-09-30,2025-12-07,Closed Lost,7346.94,Diego,Tecnología,Chile,Evento,2025-10-23,Sin prioridad
+OPP-0064,2025-07-21,2025-10-23,,Qualification,15879.64,Camilo,Finanzas,México,Inbound,2026-06-28,
+OPP-0466,2025-07-21,2025-09-22,,Qualification,13967.22,Andrea,Logística,México,Evento,2026-08-06,
+OPP-0503,2025-07-23,2025-11-30,2025-09-02,Closed Lost,3863.68,Sofía,Servicios,México,Referido,2025-08-05,Sin presupuesto
+OPP-0337,2025-07-23,2025-09-02,2025-11-30,Closed Won,7198.26,Diego,Seguros,México,Partner,2025-07-27,
+OPP-0200,2025-07-23,2025-09-27,2025-10-19,Closed Won,15956.43,Mariana,Logística,México,Referido,2025-08-15,
+OPP-0195,2025-07-24,2026-01-13,2025-08-14,Closed Lost,8277.87,Camilo,Retail,Colombia,Evento,2025-08-09,Competencia
+OPP-0274,2025-07-24,2025-09-15,2025-11-09,Closed Lost,2164.36,Sofía,Tecnología,Perú,Evento,2025-10-09,Sin prioridad
+OPP-0515,2025-07-24,2025-10-15,,Qualification,9149.41,Camilo,Finanzas,México,Inbound,2026-02-01,
+OPP-0451,2025-07-24,2025-11-09,,Discovery,3947.19,Andrea,Servicios,México,Referido,2025-12-07,
+OPP-0293,2025-07-26,2025-08-23,,Proposal,4891.77,Diego,Retail,México,Outbound,2025-08-24,
+OPP-0448,2025-07-26,2025-08-27,,Negotiation,43134.68,Diego,Logística,México,Outbound,2026-05-11,
+OPP-0340,2025-07-27,2025-10-28,2025-10-22,Closed Lost,6104.33,Andrea,Servicios,Chile,Referido,2025-10-02,Competencia
+OPP-0571,2025-07-28,2025-10-31,2025-10-30,Closed Lost,4684.11,Camilo,Tecnología,Perú,Referido,2025-08-22,Precio
+OPP-0383,2025-07-29,2025-08-24,,Qualification,23073.86,Camilo,Logística,México,Referido,2026-04-18,
+OPP-0081,2025-08-01,2025-09-22,2025-10-20,Closed Won,15148.82,Camilo,Logística,Perú,Referido,2025-08-16,
+OPP-0286,2025-08-02,2025-10-07,2025-09-15,Closed Won,7675.07,Diego,Logística,México,Inbound,2025-08-25,
+OPP-0382,2025-08-02,2026-01-22,,Discovery,3741.51,Camilo,Finanzas,México,Inbound,2025-08-18,
+OPP-0319,2025-08-02,2025-09-07,,Qualification,9157.58,Andrea,Logística,México,Partner,2025-12-09,
+OPP-0181,2025-08-02,2025-09-30,,Negotiation,5778.79,Sofía,Servicios,Perú,Inbound,2025-10-22,
+OPP-0409,2025-08-03,2025-11-30,,Negotiation,7466.49,Mariana,Tecnología,Chile,Evento,2025-08-22,
+OPP-0348,2025-08-03,2026-01-02,2025-10-19,Closed Won,4263.45,Sofía,Tecnología,México,Referido,2025-10-01,
+OPP-0470,2025-08-04,2025-09-02,2025-12-07,Closed Won,18465.87,Sofía,Logística,México,Inbound,2025-08-27,
+OPP-0491,2025-08-04,2026-01-05,,Discovery,8557.43,Andrea,Retail,México,Inbound,2026-06-02,
+OPP-0421,2025-08-06,2025-10-15,2025-10-10,Closed Won,48655.82,Sofía,Servicios,México,Referido,2025-09-19,
+OPP-0438,2025-08-06,2025-10-23,,Proposal,1927.33,Mariana,Logística,Perú,Inbound,2026-03-22,
+OPP-0452,2025-08-07,2025-10-10,,Proposal,27094.82,Mariana,Finanzas,México,Partner,2026-03-28,
+OPP-0586,2025-08-07,2025-12-04,,Proposal,8650.95,Diego,Finanzas,Perú,Referido,2026-08-26,
+OPP-0499,2025-08-07,2025-10-11,2025-09-25,Closed Lost,5108.03,Diego,Finanzas,México,Outbound,2025-09-08,Competencia
+OPP-0264,2025-08-07,2025-12-23,2025-11-07,Closed Won,9514.64,Diego,Logística,Colombia,Inbound,2025-10-15,
+OPP-0577,2025-08-07,2026-01-31,,Negotiation,10366.14,Diego,Servicios,México,Referido,2026-07-28,
+OPP-0024,2025-08-07,2025-10-01,2025-12-05,Closed Won,7695.84,Andrea,Logística,Perú,Inbound,2025-11-19,
+OPP-0527,2025-08-08,2025-09-15,2025-10-06,Closed Won,2989.09,Mariana,Logística,México,Inbound,2025-09-03,
+OPP-0061,2025-08-08,2025-09-18,2025-11-03,Closed Lost,9728.02,Mariana,Seguros,México,Referido,2025-10-11,Sin prioridad
+OPP-0530,2025-08-09,2025-12-09,,Discovery,10082.94,Andrea,Servicios,México,Referido,2026-08-12,
+OPP-0153,2025-08-10,2026-01-09,2025-12-25,Closed Won,14686.89,Sofía,Logística,México,Referido,2025-11-19,
+OPP-0324,2025-08-11,2026-01-17,,Negotiation,23751.66,Sofía,Logística,México,Partner,2025-10-28,
+OPP-0529,2025-08-11,2025-09-10,2025-12-29,Closed Lost,17745.9,Sofía,Retail,México,Partner,2025-12-01,Sin prioridad
+OPP-0202,2025-08-14,2025-11-13,2025-11-25,Closed Lost,10875.89,Andrea,Tecnología,México,Referido,2025-10-05,Sin prioridad
+OPP-0345,2025-08-15,2026-02-08,2025-10-31,Closed Won,10057.88,Camilo,Finanzas,México,Partner,2025-08-28,
+OPP-0067,2025-08-15,2025-10-21,2025-11-05,Closed Lost,14370.41,Camilo,Finanzas,Perú,Referido,2025-10-20,Competencia
+OPP-0592,2025-08-16,2025-12-26,2025-09-28,Closed Lost,14872.51,Sofía,Finanzas,Chile,Evento,2025-09-09,Sin prioridad
+OPP-0220,2025-08-16,2025-12-07,2025-11-30,Closed Lost,3784.2,Sofía,Servicios,Colombia,Evento,2025-09-17,Precio
+OPP-0179,2025-08-17,2026-01-03,2025-10-21,Closed Won,7807.83,Camilo,Servicios,México,Evento,2025-08-18,
+OPP-0095,2025-08-18,2025-12-04,,Qualification,5587.64,Diego,Servicios,México,Partner,2025-11-27,
+OPP-0304,2025-08-19,2025-09-18,2025-11-19,Closed Lost,2910.69,Camilo,Tecnología,Colombia,Outbound,2025-09-13,Sin presupuesto
+OPP-0048,2025-08-20,2025-10-03,,Discovery,26460.43,Sofía,Seguros,Colombia,Partner,2025-12-26,
+OPP-0364,2025-08-20,2025-11-14,,Qualification,5123.57,Diego,Tecnología,México,Inbound,2026-04-24,
+OPP-0579,2025-08-20,2025-10-22,2025-12-14,Closed Won,61362.95,Sofía,Tecnología,México,Evento,2025-09-30,
+OPP-0362,2025-08-21,2025-12-14,2025-09-26,Closed Lost,17286.05,Camilo,Retail,México,Partner,2025-08-24,Precio
+OPP-0358,2025-08-21,2025-12-01,,Proposal,16768.29,Sofía,Seguros,México,Outbound,2026-08-29,
+OPP-0389,2025-08-21,2025-11-14,2025-12-24,Closed Lost,20083.15,Andrea,Logística,México,Referido,2025-12-06,Competencia
+OPP-0565,2025-08-22,2026-01-30,,Qualification,6154.27,Andrea,Finanzas,México,Partner,2026-08-31,
+OPP-0035,2025-08-22,2026-01-23,,Discovery,10340.69,Mariana,Logística,Colombia,Inbound,2025-10-07,
+OPP-0375,2025-08-23,2025-10-26,2025-11-22,Closed Won,38645.36,Mariana,Seguros,Colombia,Partner,2025-09-24,
+OPP-0517,2025-08-25,2025-09-28,2025-11-09,Closed Lost,3256.76,Camilo,Logística,México,Outbound,2025-10-11,Competencia
+OPP-0396,2025-08-28,2026-02-21,2025-10-12,Closed Won,8333.56,Mariana,Finanzas,Chile,Referido,2025-10-08,
+OPP-0558,2025-08-28,2025-11-12,2025-09-25,Closed Lost,5965.57,Sofía,Finanzas,Colombia,Partner,2025-09-15,Sin prioridad
+OPP-0492,2025-08-31,2026-01-28,,Negotiation,9577.26,Mariana,Servicios,México,Outbound,2026-08-03,
+OPP-0504,2025-08-31,2026-02-14,2025-11-12,Closed Won,20888.77,Andrea,Logística,México,Partner,2025-09-26,
+OPP-0427,2025-09-01,2025-12-05,,Discovery,13842.53,Camilo,Retail,Colombia,Outbound,2026-03-31,
+OPP-0006,2025-09-03,2025-10-18,,Negotiation,12032.44,Mariana,Finanzas,Colombia,Evento,2026-08-20,
+OPP-0037,2025-09-04,2026-01-23,,Qualification,7346.73,Mariana,Tecnología,Colombia,Outbound,2025-10-08,
+OPP-0232,2025-09-04,2025-10-12,2026-01-30,Closed Won,28119.29,Andrea,Servicios,Perú,Partner,2025-12-13,
+OPP-0125,2025-09-05,2025-12-15,2025-10-15,Closed Won,41854.16,Mariana,Servicios,México,Evento,2025-09-30,
+OPP-0151,2025-09-05,2026-01-24,,Qualification,9022.54,Sofía,Tecnología,Chile,Referido,2026-08-25,
+OPP-0146,2025-09-06,2026-02-15,2025-11-02,Closed Won,3492.35,Camilo,Seguros,Colombia,Referido,2025-10-21,
+OPP-0297,2025-09-07,2026-02-23,2026-02-02,Closed Won,5657.21,Camilo,Logística,Perú,Inbound,2025-10-15,
+OPP-0560,2025-09-07,2026-01-16,2026-01-15,Closed Won,22319.78,Diego,Servicios,México,Referido,2025-10-27,
+OPP-0477,2025-09-08,2025-11-29,2026-01-18,Closed Won,5468.03,Sofía,Retail,Perú,Outbound,2025-11-12,
+OPP-0361,2025-09-09,2025-12-21,,Proposal,17203.52,Sofía,Servicios,Colombia,Evento,2025-09-21,
+OPP-0590,2025-09-10,2025-10-25,2026-01-02,Closed Won,12275.18,Sofía,Servicios,México,Partner,2025-09-20,
+OPP-0093,2025-09-10,2026-02-21,2025-10-18,Closed Won,36833.0,Camilo,Logística,México,Inbound,2025-10-01,
+OPP-0513,2025-09-11,2025-11-04,2026-01-16,Closed Lost,27798.7,Sofía,Retail,México,Partner,2025-12-29,Precio
+OPP-0459,2025-09-11,2025-11-21,,Qualification,14198.79,Sofía,Tecnología,Perú,Partner,2025-12-24,
+OPP-0019,2025-09-11,2025-10-21,,Proposal,28179.84,Camilo,Finanzas,Colombia,Outbound,2026-03-14,
+OPP-0589,2025-09-12,2026-02-27,,Discovery,60216.65,Andrea,Retail,Chile,Partner,2025-09-18,
+OPP-0090,2025-09-14,2025-11-24,2025-11-28,Closed Lost,57809.17,Sofía,Seguros,Colombia,Referido,2025-10-17,No decision
+OPP-0101,2025-09-14,2026-01-14,,Proposal,22371.38,Camilo,Tecnología,México,Referido,2025-12-30,
+OPP-0582,2025-09-14,2026-01-02,2025-10-13,Closed Won,7501.67,Camilo,Finanzas,Chile,Evento,2025-09-26,
+OPP-0084,2025-09-14,2025-11-20,2025-12-09,Closed Won,15919.08,Sofía,Retail,México,Inbound,2025-09-18,
+OPP-0545,2025-09-15,2025-10-20,,Qualification,3718.55,Mariana,Finanzas,México,Outbound,2026-07-05,
+OPP-0334,2025-09-15,2026-02-08,,Proposal,8102.6,Sofía,Retail,México,Outbound,2026-03-20,
+OPP-0482,2025-09-15,2025-12-22,2025-12-22,Closed Lost,10629.79,Diego,Tecnología,México,Evento,2025-09-25,Precio
+OPP-0388,2025-09-15,2026-03-11,2025-10-31,Closed Lost,7313.6,Camilo,Seguros,Perú,Inbound,2025-10-03,Sin prioridad
+OPP-0038,2025-09-16,2025-12-05,2025-12-15,Closed Lost,50686.49,Diego,Logística,México,Evento,2025-11-18,Sin prioridad
+OPP-0553,2025-09-16,2026-02-05,2025-12-16,Closed Lost,9833.96,Mariana,Tecnología,México,Inbound,2025-10-03,Competencia
+OPP-0302,2025-09-17,2025-12-12,2026-01-13,Closed Lost,8850.42,Camilo,Servicios,Chile,Evento,2025-10-15,Precio
+OPP-0433,2025-09-17,2026-01-13,,Qualification,11950.24,Mariana,Seguros,Perú,Partner,2026-03-30,
+OPP-0524,2025-09-17,2026-02-17,2025-12-15,Closed Won,33313.68,Mariana,Seguros,México,Outbound,2025-10-17,
+OPP-0028,2025-09-18,2026-01-03,2025-12-07,Closed Won,24477.87,Mariana,Retail,Colombia,Evento,2025-11-25,
+OPP-0149,2025-09-19,2025-11-02,,Qualification,11938.99,Diego,Finanzas,México,Outbound,2025-12-21,
+OPP-0514,2025-09-21,2025-11-03,2025-12-23,Closed Won,1459.31,Andrea,Seguros,Colombia,Referido,2025-10-14,
+OPP-0166,2025-09-22,2025-11-16,2025-11-27,Closed Won,16306.45,Sofía,Seguros,Colombia,Referido,2025-09-23,
+OPP-0227,2025-09-24,2026-03-07,2025-11-22,Closed Lost,7169.85,Sofía,Tecnología,México,Partner,2025-11-05,Sin prioridad
+OPP-0336,2025-09-24,2026-03-13,,Qualification,10681.56,Sofía,Seguros,México,Inbound,2026-01-09,
+OPP-0291,2025-09-24,2025-11-30,2025-12-22,Closed Lost,1969.18,Mariana,Retail,México,Referido,2025-10-25,Precio
+OPP-0103,2025-09-25,2025-10-23,2026-01-07,Closed Lost,9380.49,Sofía,Logística,México,Evento,2025-10-29,Sin prioridad
+OPP-0092,2025-09-26,2025-12-17,,Qualification,15425.64,Mariana,Tecnología,Colombia,Evento,2026-02-13,
+OPP-0472,2025-09-26,2026-03-18,2025-11-13,Closed Won,9858.22,Sofía,Logística,México,Outbound,2025-10-11,
+OPP-0428,2025-09-26,2025-11-24,,Qualification,21136.31,Sofía,Logística,México,Evento,2026-07-07,
+OPP-0551,2025-09-26,2025-12-25,,Discovery,23137.73,Camilo,Tecnología,Colombia,Referido,2026-05-09,
+OPP-0596,2025-09-27,2026-02-04,2025-12-24,Closed Lost,16010.31,Andrea,Seguros,México,Referido,2025-12-02,Sin prioridad
+OPP-0591,2025-09-27,2025-12-11,,Proposal,41582.27,Andrea,Finanzas,Perú,Partner,2026-02-24,
+OPP-0105,2025-09-29,2026-01-28,2025-12-14,Closed Lost,13502.74,Mariana,Seguros,México,Referido,2025-11-26,Precio
+OPP-0071,2025-09-29,2025-11-21,2025-12-01,Closed Lost,22629.47,Mariana,Seguros,México,Inbound,2025-10-11,Precio
+OPP-0484,2025-09-29,2026-01-01,2026-01-17,Closed Won,17237.4,Camilo,Seguros,Chile,Referido,2026-01-17,
+OPP-0135,2025-09-30,2026-02-12,,Qualification,8532.0,Sofía,Retail,México,Outbound,2026-07-07,
+OPP-0261,2025-09-30,2025-11-05,,Qualification,9646.93,Sofía,Tecnología,Perú,Partner,2026-08-16,
+OPP-0559,2025-10-01,2026-03-22,,Proposal,20818.3,Andrea,Servicios,Colombia,Evento,2026-01-19,
+OPP-0213,2025-10-02,2026-02-18,,Qualification,13704.81,Mariana,Seguros,México,Outbound,2026-01-19,
+OPP-0016,2025-10-03,2025-12-09,,Proposal,4945.24,Camilo,Logística,Colombia,Evento,2026-03-06,
+OPP-0106,2025-10-03,2026-03-31,2025-12-09,Closed Lost,17927.77,Andrea,Finanzas,México,Evento,2025-10-10,Sin prioridad
+OPP-0249,2025-10-03,2026-01-17,2025-11-26,Closed Lost,26010.35,Diego,Seguros,Perú,Evento,2025-10-17,Precio
+OPP-0476,2025-10-04,2026-02-04,2025-11-06,Closed Lost,7869.62,Camilo,Seguros,México,Referido,2025-10-28,Sin prioridad
+OPP-0160,2025-10-04,2026-01-23,2025-11-13,Closed Won,11801.28,Diego,Logística,Colombia,Referido,2025-10-10,
+OPP-0278,2025-10-05,2025-12-13,2025-12-19,Closed Won,18899.21,Andrea,Tecnología,México,Outbound,2025-12-19,
+OPP-0025,2025-10-05,2025-12-30,2025-11-24,Closed Lost,8569.46,Andrea,Finanzas,Colombia,Inbound,2025-11-07,Sin prioridad
+OPP-0112,2025-10-05,2026-03-19,2026-01-25,Closed Won,15828.15,Andrea,Tecnología,Perú,Partner,2025-11-25,
+OPP-0107,2025-10-06,2026-01-12,,Proposal,5598.24,Diego,Tecnología,México,Referido,2026-02-19,
+OPP-0598,2025-10-06,2025-11-11,,Discovery,11836.99,Andrea,Servicios,México,Referido,2026-03-22,
+OPP-0050,2025-10-06,2026-01-24,,Qualification,16834.37,Sofía,Finanzas,México,Outbound,2025-10-29,
+OPP-0210,2025-10-06,2026-02-27,,Qualification,86910.3,Diego,Finanzas,México,Inbound,2026-07-15,
+OPP-0402,2025-10-07,2026-03-16,,Proposal,17630.04,Mariana,Retail,México,Evento,2026-03-21,
+OPP-0002,2025-10-08,2025-12-05,,Discovery,11119.52,Andrea,Seguros,México,Outbound,2026-03-24,
+OPP-0370,2025-10-09,2025-12-11,,Negotiation,17340.27,Sofía,Servicios,Perú,Referido,2026-06-27,
+OPP-0173,2025-10-09,2025-11-12,,Qualification,5782.26,Andrea,Servicios,México,Outbound,2025-10-10,
+OPP-0320,2025-10-10,2025-12-09,,Qualification,14958.9,Sofía,Seguros,México,Referido,2025-11-08,
+OPP-0089,2025-10-11,2026-02-21,,Qualification,8115.23,Andrea,Logística,Chile,Evento,2025-12-18,
+OPP-0423,2025-10-11,2026-03-29,,Qualification,12993.29,Camilo,Tecnología,Colombia,Partner,2025-10-13,
+OPP-0128,2025-10-12,2026-02-02,2026-03-03,Closed Lost,14823.34,Mariana,Seguros,Perú,Referido,2025-11-30,Precio
+OPP-0207,2025-10-12,2026-03-06,,Proposal,5959.42,Camilo,Servicios,Perú,Inbound,2025-11-22,
+OPP-0489,2025-10-12,2025-11-08,2025-11-06,Closed Lost,8770.31,Mariana,Seguros,Chile,Evento,2025-10-18,Competencia
+OPP-0014,2025-10-13,2026-03-25,,Proposal,22749.71,Camilo,Tecnología,Perú,Referido,2025-12-22,
+OPP-0051,2025-10-14,2026-03-16,2026-01-10,Closed Won,30689.28,Mariana,Servicios,Perú,Outbound,2025-11-19,
+OPP-0042,2025-10-15,2025-12-01,2025-11-14,Closed Lost,5298.1,Andrea,Servicios,Chile,Outbound,2025-10-19,No decision
+OPP-0234,2025-10-15,2026-01-09,2026-01-01,Closed Won,17892.76,Camilo,Seguros,Colombia,Partner,2025-11-04,
+OPP-0247,2025-10-15,2026-03-03,,Negotiation,12375.36,Andrea,Finanzas,Perú,Partner,2025-11-01,
+OPP-0493,2025-10-17,2025-11-20,,Proposal,8760.25,Mariana,Seguros,México,Referido,2026-08-06,
+OPP-0463,2025-10-18,2026-01-14,,Qualification,2974.55,Diego,Logística,Colombia,Partner,2026-02-15,
+OPP-0360,2025-10-19,2026-01-30,,Negotiation,7591.72,Diego,Finanzas,Chile,Outbound,2026-06-20,
+OPP-0391,2025-10-19,2026-01-07,,Proposal,40237.17,Camilo,Tecnología,México,Partner,2025-11-03,
+OPP-0378,2025-10-19,2025-12-12,2025-11-27,Closed Won,12075.7,Andrea,Retail,Colombia,Referido,2025-10-30,
+OPP-0512,2025-10-20,2025-11-27,,Qualification,33223.08,Andrea,Tecnología,México,Inbound,2026-07-30,
+OPP-0062,2025-10-20,2026-03-20,,Qualification,12143.07,Mariana,Logística,México,Partner,2026-04-02,
+OPP-0059,2025-10-21,2026-02-13,2025-11-19,Closed Won,10176.15,Diego,Seguros,México,Inbound,2025-10-21,
+OPP-0215,2025-10-23,2026-03-27,,Proposal,15700.82,Andrea,Servicios,México,Inbound,2026-08-04,
+OPP-0471,2025-10-23,2026-01-08,,Discovery,80962.13,Camilo,Tecnología,México,Evento,2026-01-12,
+OPP-0377,2025-10-23,2026-03-20,2026-02-08,Closed Lost,24399.27,Andrea,Logística,México,Referido,2026-01-12,Sin presupuesto
+OPP-0432,2025-10-23,2026-02-12,,Qualification,5738.47,Sofía,Servicios,México,Partner,2026-04-05,
+OPP-0557,2025-10-24,2026-03-04,2025-11-23,Closed Lost,13102.34,Andrea,Finanzas,Chile,Referido,2025-11-02,Sin presupuesto
+OPP-0013,2025-10-24,2025-12-22,,Discovery,13526.46,Diego,Retail,Colombia,Partner,2026-02-18,
+OPP-0317,2025-10-26,2025-12-28,2025-12-20,Closed Lost,11411.08,Diego,Tecnología,Chile,Partner,2025-11-14,Sin prioridad
+OPP-0318,2025-10-27,2026-04-01,,Proposal,4268.43,Diego,Logística,Chile,Outbound,2026-02-05,
+OPP-0174,2025-10-29,2026-04-01,,Discovery,23183.68,Camilo,Finanzas,Perú,Outbound,2026-03-25,
+OPP-0461,2025-10-29,2026-02-15,2026-02-26,Closed Won,10518.15,Andrea,Retail,Chile,Inbound,2025-11-06,
+OPP-0395,2025-10-30,2025-12-05,2026-02-21,Closed Lost,20393.27,Diego,Seguros,México,Inbound,2026-02-06,Precio
+OPP-0225,2025-10-30,2025-12-26,,Qualification,20380.85,Diego,Retail,México,Evento,2026-04-20,
+OPP-0015,2025-10-31,2026-03-18,,Proposal,5166.78,Andrea,Tecnología,Colombia,Referido,2026-06-10,
+OPP-0236,2025-10-31,2026-03-20,,Discovery,16716.57,Andrea,Seguros,México,Outbound,2026-02-16,
+OPP-0212,2025-11-01,2026-01-23,2026-01-09,Closed Lost,32319.18,Mariana,Finanzas,Colombia,Evento,2025-11-28,Sin prioridad
+OPP-0430,2025-11-01,2026-03-16,2026-02-21,Closed Won,7142.23,Sofía,Seguros,México,Outbound,2025-11-17,
+OPP-0177,2025-11-01,2026-03-09,,Negotiation,6641.73,Mariana,Finanzas,Perú,Outbound,2026-01-28,
+OPP-0541,2025-11-04,2026-03-18,,Qualification,11426.24,Andrea,Seguros,Colombia,Referido,2026-07-23,
+OPP-0110,2025-11-05,2026-04-16,2026-02-03,Closed Lost,8545.14,Sofía,Finanzas,Colombia,Inbound,2025-11-27,Precio
+OPP-0223,2025-11-06,2026-04-16,,Discovery,7486.2,Andrea,Seguros,Colombia,Outbound,2026-03-06,
+OPP-0043,2025-11-07,2026-01-31,2026-02-15,Closed Lost,6692.45,Andrea,Servicios,Colombia,Referido,2025-12-22,Precio
+OPP-0086,2025-11-07,2025-12-22,2026-01-24,Closed Lost,4979.33,Andrea,Finanzas,México,Partner,2025-11-29,Sin prioridad
+OPP-0204,2025-11-08,2026-02-08,2026-03-19,Closed Won,5153.73,Mariana,Logística,México,Partner,2026-03-01,
+OPP-0184,2025-11-09,2026-01-14,,Proposal,9927.57,Sofía,Tecnología,México,Referido,2026-08-15,
+OPP-0008,2025-11-09,2026-01-03,2026-04-07,Closed Won,2806.84,Andrea,Finanzas,Perú,Referido,2026-02-26,
+OPP-0175,2025-11-09,2025-12-04,,Proposal,19014.7,Sofía,Tecnología,México,Referido,2025-12-23,
+OPP-0422,2025-11-10,2026-03-17,,Negotiation,20814.89,Camilo,Logística,México,Evento,2026-08-23,
+OPP-0587,2025-11-12,2025-12-31,,Negotiation,33069.63,Diego,Retail,Perú,Partner,2026-07-04,
+OPP-0075,2025-11-13,2026-01-30,,Discovery,16372.4,Camilo,Tecnología,México,Partner,2026-06-02,
+OPP-0191,2025-11-14,2026-05-12,2026-02-17,Closed Won,12521.6,Andrea,Logística,México,Outbound,2026-01-05,
+OPP-0060,2025-11-14,2026-04-03,2026-01-26,Closed Won,15489.7,Sofía,Tecnología,Perú,Evento,2026-01-15,
+OPP-0098,2025-11-15,2026-05-03,,Proposal,4304.37,Diego,Tecnología,Perú,Partner,2025-11-24,
+OPP-0550,2025-11-15,2026-01-19,2025-12-29,Closed Lost,23546.98,Andrea,Retail,México,Inbound,2025-11-26,Sin prioridad
+OPP-0049,2025-11-17,2026-03-31,2026-04-10,Closed Won,32342.49,Sofía,Retail,México,Referido,2025-12-31,
+OPP-0416,2025-11-17,2026-04-10,,Discovery,20394.16,Camilo,Tecnología,Chile,Referido,2026-03-16,
+OPP-0257,2025-11-17,2026-03-23,,Proposal,10070.78,Andrea,Logística,Perú,Outbound,2026-04-28,
+OPP-0312,2025-11-19,2026-01-15,2026-01-01,Closed Won,15530.79,Camilo,Seguros,México,Inbound,2025-12-05,
+OPP-0283,2025-11-19,2026-03-07,,Qualification,13128.25,Camilo,Tecnología,México,Evento,2025-12-20,
+OPP-0080,2025-11-20,2026-04-10,2026-02-20,Closed Lost,1394.06,Diego,Tecnología,México,Partner,2025-12-04,Precio
+OPP-0122,2025-11-20,2026-02-26,,Qualification,8122.48,Sofía,Retail,Perú,Partner,2026-05-08,
+OPP-0311,2025-11-21,2026-01-09,2025-12-25,Closed Won,14968.02,Andrea,Seguros,Chile,Partner,2025-12-22,
+OPP-0108,2025-11-22,2026-03-22,2026-03-22,Closed Lost,5431.97,Andrea,Finanzas,Perú,Partner,2025-11-23,Sin presupuesto
+OPP-0479,2025-11-22,2026-05-09,2026-02-11,Closed Lost,14549.72,Mariana,Logística,México,Evento,2025-12-30,Precio
+OPP-0162,2025-11-22,2026-01-31,,Discovery,24410.86,Diego,Retail,México,Referido,2026-02-25,
+OPP-0372,2025-11-23,2026-04-11,2026-02-28,Closed Won,35149.08,Sofía,Retail,Colombia,Partner,2026-01-21,
+OPP-0156,2025-11-23,2026-05-12,,Discovery,17919.0,Camilo,Retail,Colombia,Outbound,2026-03-28,
+OPP-0237,2025-11-23,2026-01-11,2026-04-20,Closed Won,5218.25,Diego,Tecnología,México,Partner,2026-01-21,
+OPP-0446,2025-11-23,2026-05-13,2026-02-08,Closed Won,15380.36,Diego,Finanzas,México,Outbound,2026-01-05,
+OPP-0316,2025-11-24,2026-04-29,2026-04-08,Closed Lost,18136.06,Camilo,Retail,México,Evento,2026-01-09,Precio
+OPP-0255,2025-11-24,2026-01-13,,Qualification,6701.82,Diego,Retail,México,Partner,2026-06-20,
+OPP-0003,2025-11-26,2026-03-23,2026-02-07,Closed Won,14055.69,Sofía,Servicios,México,Evento,2026-01-05,
+OPP-0123,2025-11-26,2026-03-03,,Qualification,21521.33,Mariana,Servicios,México,Evento,2026-01-05,
+OPP-0502,2025-11-27,2026-05-10,,Proposal,22946.14,Camilo,Logística,Chile,Inbound,2026-02-22,
+OPP-0244,2025-11-28,2026-02-24,2026-04-21,Closed Lost,9455.9,Sofía,Retail,Chile,Outbound,2026-01-19,Precio
+OPP-0569,2025-12-01,2026-04-21,,Qualification,8376.7,Diego,Tecnología,Perú,Referido,2026-02-18,
+OPP-0600,2025-12-01,2026-03-05,2026-02-20,Closed Won,4318.29,Andrea,Servicios,Chile,Outbound,2026-01-29,
+OPP-0026,2025-12-01,2026-02-09,2026-04-09,Closed Won,11822.72,Andrea,Servicios,México,Inbound,2026-01-19,
+OPP-0099,2025-12-03,2026-02-22,,Negotiation,9564.38,Diego,Finanzas,México,Partner,2026-06-07,
+OPP-0341,2025-12-04,2026-01-06,2026-03-12,Closed Lost,59443.15,Mariana,Logística,Perú,Evento,2026-02-14,Sin prioridad
+OPP-0475,2025-12-04,2026-01-14,,Qualification,15773.29,Mariana,Retail,Colombia,Inbound,2026-03-04,
+OPP-0130,2025-12-04,2026-03-24,2026-04-28,Closed Lost,12547.14,Diego,Tecnología,Chile,Referido,2026-02-03,Precio
+OPP-0458,2025-12-05,2026-05-16,2026-03-17,Closed Lost,23076.63,Camilo,Tecnología,México,Referido,2026-01-26,Sin presupuesto
+OPP-0085,2025-12-06,2026-02-25,,Proposal,16217.09,Diego,Servicios,México,Evento,2026-04-30,
+OPP-0040,2025-12-06,2026-03-15,2026-02-28,Closed Lost,4585.01,Andrea,Tecnología,Colombia,Outbound,2026-02-27,Competencia
+OPP-0192,2025-12-06,2026-05-06,2026-04-02,Closed Won,15838.57,Camilo,Retail,México,Evento,2026-01-24,
+OPP-0245,2025-12-07,2026-03-09,,Discovery,5015.96,Diego,Seguros,Perú,Referido,2026-01-03,
+OPP-0599,2025-12-07,2026-04-27,,Discovery,4554.16,Mariana,Retail,Colombia,Referido,2025-12-28,
+OPP-0240,2025-12-07,2026-01-30,2026-04-25,Closed Lost,6489.16,Andrea,Tecnología,México,Outbound,2026-03-17,Competencia
+OPP-0343,2025-12-10,2026-02-02,,Qualification,21773.88,Diego,Servicios,México,Evento,2026-04-15,
+OPP-0323,2025-12-12,2026-05-19,2026-01-02,Closed Lost,34644.03,Mariana,Tecnología,México,Evento,2025-12-16,Sin presupuesto
+OPP-0269,2025-12-13,2026-03-12,,Proposal,12021.2,Camilo,Logística,Colombia,Outbound,2026-08-07,
+OPP-0490,2025-12-16,2026-05-27,2026-04-27,Closed Won,7981.52,Sofía,Tecnología,México,Partner,2026-02-18,
+OPP-0193,2025-12-16,2026-03-16,2026-05-14,Closed Won,10294.31,Diego,Tecnología,Chile,Outbound,2025-12-17,
+OPP-0494,2025-12-17,2026-03-06,,Qualification,22242.15,Sofía,Servicios,Colombia,Evento,2026-01-08,
+OPP-0137,2025-12-17,2026-02-10,,Qualification,11523.63,Sofía,Servicios,México,Outbound,2026-03-10,
+OPP-0531,2025-12-19,2026-03-17,2026-03-16,Closed Won,17402.92,Camilo,Finanzas,México,Outbound,2026-03-07,
+OPP-0394,2025-12-19,2026-03-27,,Proposal,12334.28,Mariana,Servicios,Colombia,Referido,2026-02-26,
+OPP-0468,2025-12-20,2026-02-18,,Qualification,43863.43,Diego,Seguros,México,Partner,2026-08-05,
+OPP-0455,2025-12-20,2026-02-17,2026-03-29,Closed Won,11316.1,Camilo,Logística,Chile,Inbound,2025-12-21,
+OPP-0520,2025-12-21,2026-01-26,,Proposal,5258.87,Sofía,Logística,Chile,Partner,2025-12-30,
+OPP-0270,2025-12-22,2026-03-29,2026-04-03,Closed Won,11811.21,Sofía,Logística,Perú,Evento,2026-03-28,
+OPP-0548,2025-12-22,2026-05-19,2026-05-17,Closed Won,6225.73,Diego,Tecnología,México,Referido,2026-02-14,
+OPP-0260,2025-12-24,2026-06-10,2026-03-25,Closed Won,10711.99,Diego,Retail,Colombia,Outbound,2026-01-04,
+OPP-0242,2025-12-25,2026-02-18,2026-03-30,Closed Won,21056.37,Sofía,Retail,Perú,Referido,2026-02-07,
+OPP-0266,2025-12-26,2026-05-16,2026-03-21,Closed Won,31095.84,Mariana,Servicios,México,Partner,2026-01-06,
+OPP-0424,2025-12-26,2026-05-28,2026-03-18,Closed Lost,8382.33,Camilo,Servicios,México,Outbound,2026-03-01,Sin presupuesto
+OPP-0228,2025-12-27,2026-04-11,2026-05-18,Closed Lost,27803.88,Andrea,Servicios,México,Evento,2026-04-03,Competencia
+OPP-0597,2025-12-27,2026-04-25,,Proposal,23429.67,Andrea,Retail,Perú,Evento,2026-01-03,
+OPP-0535,2025-12-28,2026-03-31,2026-01-18,Closed Lost,9927.56,Mariana,Logística,México,Inbound,2026-01-07,Competencia
+OPP-0129,2025-12-29,2026-05-21,,Qualification,19972.52,Sofía,Retail,Perú,Outbound,2026-07-27,
+OPP-0570,2025-12-30,2026-02-26,,Discovery,1369.16,Andrea,Tecnología,México,Outbound,2026-05-22,
+OPP-0288,2025-12-30,2026-03-07,,Proposal,12452.06,Sofía,Seguros,México,Referido,2026-02-11,
+OPP-0116,2025-12-31,2026-04-06,,Discovery,19528.3,Sofía,Finanzas,Chile,Referido,2026-07-16,
+OPP-0437,2026-01-01,2026-04-06,,Discovery,9597.0,Mariana,Logística,Colombia,Partner,2026-03-15,
+OPP-0126,2026-01-02,2026-03-31,2026-02-04,Closed Lost,29633.53,Camilo,Tecnología,México,Evento,2026-01-19,Competencia
+OPP-0131,2026-01-02,2026-05-06,2026-02-12,Closed Lost,12634.04,Diego,Seguros,México,Outbound,2026-02-01,Competencia
+OPP-0079,2026-01-02,2026-06-17,,Proposal,14644.29,Mariana,Servicios,Chile,Referido,2026-03-08,
+OPP-0134,2026-01-04,2026-02-14,2026-02-18,Closed Lost,6801.6,Mariana,Tecnología,México,Outbound,2026-02-09,Sin presupuesto
+OPP-0158,2026-01-05,2026-03-24,,Negotiation,8844.97,Sofía,Finanzas,Perú,Evento,2026-05-15,
+OPP-0113,2026-01-06,2026-04-19,,Qualification,16052.6,Andrea,Finanzas,Perú,Evento,2026-03-24,
+OPP-0330,2026-01-06,2026-05-28,2026-05-10,Closed Lost,5901.11,Camilo,Servicios,México,Evento,2026-05-02,No decision
+OPP-0456,2026-01-06,2026-05-26,,Discovery,3732.09,Andrea,Tecnología,México,Referido,2026-01-22,
+OPP-0034,2026-01-06,2026-05-20,2026-05-30,Closed Lost,12380.01,Camilo,Tecnología,México,Partner,2026-05-20,Sin prioridad
+OPP-0308,2026-01-06,2026-05-10,,Qualification,3633.14,Mariana,Finanzas,Colombia,Inbound,2026-03-13,
+OPP-0132,2026-01-07,2026-06-10,2026-03-20,Closed Lost,20808.2,Sofía,Tecnología,México,Referido,2026-01-14,Competencia
+OPP-0331,2026-01-09,2026-05-07,2026-01-31,Closed Lost,33494.67,Andrea,Retail,México,Evento,2026-01-10,No decision
+OPP-0057,2026-01-09,2026-03-12,2026-05-04,Closed Lost,10202.28,Mariana,Seguros,México,Outbound,2026-03-09,No decision
+OPP-0229,2026-01-09,2026-05-26,2026-03-27,Closed Lost,35846.94,Sofía,Tecnología,México,Inbound,2026-02-14,Precio
+OPP-0295,2026-01-10,2026-04-24,,Qualification,9572.81,Sofía,Servicios,México,Outbound,2026-05-31,
+OPP-0029,2026-01-10,2026-03-05,2026-04-10,Closed Won,7067.54,Camilo,Finanzas,Perú,Outbound,2026-03-22,
+OPP-0305,2026-01-11,2026-02-18,2026-02-22,Closed Lost,10570.75,Camilo,Logística,Perú,Inbound,2026-02-15,Sin presupuesto
+OPP-0289,2026-01-11,2026-02-23,,Discovery,11509.92,Mariana,Finanzas,México,Inbound,2026-04-25,
+OPP-0539,2026-01-12,2026-04-11,,Negotiation,13825.26,Andrea,Retail,México,Evento,2026-08-17,
+OPP-0561,2026-01-14,2026-05-19,2026-02-10,Closed Lost,18422.99,Camilo,Logística,Chile,Referido,2026-01-20,Sin presupuesto
+OPP-0351,2026-01-15,2026-05-16,,Negotiation,4862.66,Camilo,Finanzas,Perú,Referido,2026-07-09,
+OPP-0507,2026-01-16,2026-06-18,2026-02-15,Closed Won,11299.41,Diego,Servicios,México,Outbound,2026-02-07,
+OPP-0488,2026-01-16,2026-03-13,,Proposal,16085.09,Sofía,Seguros,Chile,Inbound,2026-08-02,
+OPP-0011,2026-01-18,2026-03-01,2026-03-07,Closed Won,10673.69,Diego,Retail,Colombia,Outbound,2026-03-06,
+OPP-0578,2026-01-19,2026-05-12,,Proposal,14169.25,Andrea,Logística,México,Inbound,2026-07-16,
+OPP-0296,2026-01-20,2026-04-17,,Proposal,3884.41,Diego,Finanzas,México,Evento,2026-03-20,
+OPP-0449,2026-01-20,2026-04-10,2026-04-20,Closed Lost,9935.62,Camilo,Seguros,México,Evento,2026-02-12,No decision
+OPP-0366,2026-01-21,2026-06-16,2026-02-11,Closed Won,12237.79,Andrea,Tecnología,México,Outbound,2026-01-21,
+OPP-0549,2026-01-22,2026-06-17,,Discovery,57243.94,Andrea,Logística,México,Outbound,2026-05-22,
+OPP-0344,2026-01-22,2026-05-08,,Discovery,8085.8,Camilo,Retail,Colombia,Evento,2026-08-08,
+OPP-0017,2026-01-23,2026-05-15,,Proposal,5233.35,Andrea,Finanzas,Colombia,Referido,2026-06-03,
+OPP-0445,2026-01-25,2026-04-24,2026-03-28,Closed Won,7072.14,Andrea,Retail,México,Inbound,2026-02-16,
+OPP-0159,2026-01-26,2026-07-24,2026-04-21,Closed Lost,2392.87,Andrea,Seguros,Colombia,Evento,2026-03-13,Competencia
+OPP-0420,2026-01-26,2026-05-24,2026-02-28,Closed Lost,11308.07,Sofía,Retail,Chile,Inbound,2026-02-03,Precio
+OPP-0115,2026-01-26,2026-04-16,,Qualification,13564.71,Camilo,Logística,Colombia,Outbound,2026-07-11,
+OPP-0556,2026-01-27,2026-07-01,,Negotiation,31535.03,Sofía,Finanzas,Perú,Evento,2026-03-24,
+OPP-0406,2026-01-28,2026-06-24,2026-04-22,Closed Won,15041.94,Diego,Tecnología,Chile,Referido,2026-02-18,
+OPP-0180,2026-01-28,2026-03-21,,Negotiation,16994.89,Camilo,Seguros,México,Referido,2026-02-25,
+OPP-0021,2026-01-28,2026-06-26,2026-06-05,Closed Lost,1898.42,Mariana,Tecnología,México,Partner,2026-02-09,Sin prioridad
+OPP-0405,2026-01-29,2026-05-14,,Proposal,8778.32,Mariana,Seguros,México,Referido,2026-05-09,
+OPP-0453,2026-01-29,2026-05-15,,Discovery,6650.41,Diego,Logística,Perú,Referido,2026-03-08,
+OPP-0055,2026-01-29,2026-04-29,,Negotiation,12529.52,Camilo,Servicios,México,Inbound,2026-02-28,
+OPP-0183,2026-01-30,2026-07-25,2026-03-23,Closed Won,4702.91,Andrea,Tecnología,México,Evento,2026-03-09,
+OPP-0185,2026-01-30,2026-07-16,,Qualification,12443.41,Sofía,Tecnología,México,Evento,2026-08-28,
+OPP-0203,2026-01-31,2026-07-27,2026-05-24,Closed Lost,9979.04,Camilo,Logística,Colombia,Partner,2026-04-23,Sin presupuesto
+OPP-0563,2026-01-31,2026-07-11,2026-06-21,Closed Lost,9460.98,Camilo,Tecnología,México,Referido,2026-05-09,Sin prioridad
+OPP-0235,2026-01-31,2026-04-18,,Qualification,17690.97,Mariana,Tecnología,Colombia,Evento,2026-05-18,
+OPP-0252,2026-01-31,2026-06-12,,Discovery,5643.1,Mariana,Retail,Colombia,Inbound,2026-08-10,
+OPP-0284,2026-02-01,2026-06-30,,Negotiation,22996.87,Camilo,Logística,México,Evento,2026-05-22,
+OPP-0444,2026-02-02,2026-04-29,,Qualification,20522.78,Diego,Tecnología,Perú,Outbound,2026-02-26,
+OPP-0282,2026-02-03,2026-07-18,2026-03-11,Closed Won,24142.78,Sofía,Tecnología,México,Inbound,2026-02-09,
+OPP-0276,2026-02-05,2026-05-12,2026-06-10,Closed Won,7776.93,Mariana,Tecnología,México,Outbound,2026-05-05,
+OPP-0076,2026-02-07,2026-05-03,,Discovery,27288.5,Diego,Tecnología,México,Evento,2026-05-18,
+OPP-0519,2026-02-08,2026-03-18,2026-05-18,Closed Won,28257.26,Sofía,Finanzas,México,Inbound,2026-04-08,
+OPP-0290,2026-02-08,2026-04-13,,Qualification,33207.35,Sofía,Seguros,Chile,Outbound,2026-06-13,
+OPP-0124,2026-02-09,2026-05-21,,Qualification,33358.83,Mariana,Retail,Perú,Evento,2026-02-13,
+OPP-0109,2026-02-09,2026-05-13,,Qualification,25472.86,Andrea,Servicios,México,Referido,2026-05-12,
+OPP-0070,2026-02-10,2026-05-01,2026-06-29,Closed Lost,10793.82,Diego,Seguros,México,Inbound,2026-05-12,Competencia
+OPP-0367,2026-02-10,2026-08-02,2026-05-12,Closed Lost,14551.47,Diego,Logística,México,Outbound,2026-04-12,Sin prioridad
+OPP-0277,2026-02-11,2026-04-13,2026-04-15,Closed Lost,11619.73,Mariana,Servicios,Colombia,Evento,2026-03-26,Sin prioridad
+OPP-0054,2026-02-11,2026-03-18,2026-05-20,Closed Won,6159.53,Andrea,Retail,México,Inbound,2026-04-26,
+OPP-0474,2026-02-11,2026-06-26,2026-03-08,Closed Lost,15646.67,Sofía,Finanzas,México,Outbound,2026-02-26,Precio
+OPP-0231,2026-02-13,2026-07-06,2026-04-05,Closed Won,23179.83,Andrea,Tecnología,México,Referido,2026-03-11,
+OPP-0176,2026-02-13,2026-06-23,,Proposal,12374.42,Andrea,Tecnología,México,Partner,2026-08-27,
+OPP-0073,2026-02-13,2026-04-14,,Proposal,13391.28,Sofía,Logística,México,Evento,2026-04-24,
+OPP-0485,2026-02-13,2026-03-19,2026-04-05,Closed Lost,4536.2,Sofía,Logística,Colombia,Partner,2026-03-24,Precio
+OPP-0114,2026-02-14,2026-07-11,2026-03-10,Closed Lost,3819.54,Mariana,Finanzas,México,Outbound,2026-02-23,Precio
+OPP-0335,2026-02-14,2026-04-04,,Qualification,15561.63,Sofía,Retail,México,Referido,2026-08-18,
+OPP-0205,2026-02-15,2026-06-28,2026-04-28,Closed Won,9748.9,Andrea,Servicios,México,Inbound,2026-02-26,
+OPP-0506,2026-02-16,2026-05-03,,Discovery,3619.91,Camilo,Retail,México,Referido,2026-05-16,
+OPP-0222,2026-02-16,2026-08-14,,Proposal,9421.75,Diego,Tecnología,México,Partner,2026-02-22,
+OPP-0537,2026-02-16,2026-08-05,2026-06-15,Closed Lost,7569.87,Mariana,Retail,México,Partner,2026-05-29,Precio
+OPP-0214,2026-02-18,2026-07-22,,Proposal,10312.39,Diego,Finanzas,México,Referido,2026-06-01,
+OPP-0031,2026-02-18,2026-07-05,2026-03-14,Closed Lost,16232.82,Mariana,Tecnología,Perú,Referido,2026-03-04,Competencia
+OPP-0020,2026-02-18,2026-08-10,2026-05-06,Closed Lost,8429.02,Mariana,Tecnología,México,Outbound,2026-04-16,Precio
+OPP-0219,2026-02-19,2026-06-12,,Qualification,4202.19,Camilo,Tecnología,Chile,Partner,2026-07-06,
+OPP-0267,2026-02-19,2026-08-13,2026-05-24,Closed Lost,10211.24,Mariana,Retail,Chile,Partner,2026-03-19,Competencia
+OPP-0047,2026-02-20,2026-05-15,2026-05-14,Closed Lost,23410.31,Mariana,Servicios,Perú,Referido,2026-05-03,Precio
+OPP-0186,2026-02-20,2026-08-05,,Negotiation,66869.2,Diego,Finanzas,México,Inbound,2026-04-12,
+OPP-0030,2026-02-21,2026-08-01,,Proposal,6180.36,Camilo,Servicios,México,Inbound,2026-04-08,
+OPP-0285,2026-02-22,2026-06-25,2026-05-08,Closed Lost,13992.89,Camilo,Finanzas,Perú,Inbound,2026-04-25,No decision
+OPP-0121,2026-02-22,2026-06-17,2026-07-18,Closed Won,9247.55,Camilo,Retail,México,Referido,2026-03-24,
+OPP-0082,2026-02-23,2026-05-07,2026-07-18,Closed Lost,831.43,Mariana,Tecnología,Perú,Referido,2026-06-03,Precio
+OPP-0004,2026-02-23,2026-07-13,2026-05-10,Closed Won,5565.36,Sofía,Logística,Colombia,Inbound,2026-03-19,
+OPP-0140,2026-02-23,2026-07-29,2026-06-06,Closed Won,8778.97,Camilo,Retail,México,Evento,2026-04-26,
+OPP-0298,2026-02-23,2026-04-23,2026-05-12,Closed Won,6186.93,Andrea,Tecnología,México,Outbound,2026-02-26,
+OPP-0155,2026-02-24,2026-06-26,,Qualification,15445.55,Andrea,Servicios,Perú,Outbound,2026-05-04,
+OPP-0354,2026-02-24,2026-04-08,,Discovery,29120.74,Diego,Finanzas,México,Inbound,2026-08-18,
+OPP-0091,2026-02-24,2026-08-01,2026-04-13,Closed Won,11482.94,Andrea,Finanzas,México,Inbound,2026-03-29,
+OPP-0407,2026-02-25,2026-06-23,2026-05-28,Closed Lost,7339.36,Andrea,Logística,México,Outbound,2026-03-31,Sin prioridad
+OPP-0005,2026-02-25,2026-05-15,2026-03-28,Closed Lost,19370.05,Diego,Seguros,México,Referido,2026-03-26,Sin presupuesto
+OPP-0473,2026-02-25,2026-05-29,2026-06-17,Closed Won,6473.84,Andrea,Finanzas,México,Inbound,2026-03-10,
+OPP-0435,2026-02-25,2026-06-03,,Qualification,17894.97,Diego,Logística,México,Partner,2026-04-08,
+OPP-0238,2026-02-25,2026-05-18,,Discovery,19044.25,Mariana,Retail,México,Outbound,2026-05-01,
+OPP-0547,2026-02-27,2026-05-28,,Negotiation,30788.4,Mariana,Tecnología,México,Evento,2026-05-25,
+OPP-0500,2026-02-28,2026-08-22,2026-06-02,Closed Won,29929.93,Camilo,Tecnología,México,Partner,2026-05-29,
+OPP-0165,2026-03-03,2026-05-01,2026-07-11,Closed Won,8020.37,Andrea,Seguros,México,Referido,2026-03-27,
+OPP-0464,2026-03-03,2026-07-26,,Discovery,5303.75,Diego,Tecnología,México,Referido,2026-03-24,
+OPP-0275,2026-03-03,2026-05-29,2026-06-28,Closed Lost,2721.36,Sofía,Logística,México,Inbound,2026-04-21,Precio
+OPP-0572,2026-03-04,2026-07-13,,Qualification,25771.0,Andrea,Logística,México,Partner,2026-08-25,
+OPP-0248,2026-03-04,2026-08-09,,Qualification,12171.74,Camilo,Seguros,Colombia,Referido,2026-06-15,
+OPP-0425,2026-03-04,2026-08-22,,Qualification,8655.13,Camilo,Tecnología,México,Partner,2026-06-01,
+OPP-0496,2026-03-05,2026-06-27,,Proposal,21389.17,Andrea,Seguros,México,Partner,2026-03-25,
+OPP-0065,2026-03-06,2026-06-07,2026-06-20,Closed Won,26609.44,Mariana,Servicios,México,Referido,2026-03-09,
+OPP-0373,2026-03-06,2026-05-14,2026-07-21,Closed Lost,28837.34,Diego,Servicios,Colombia,Evento,2026-05-16,Sin presupuesto
+OPP-0163,2026-03-07,2026-05-04,2026-05-29,Closed Lost,27040.66,Diego,Tecnología,Chile,Partner,2026-03-14,Competencia
+OPP-0144,2026-03-07,2026-08-14,,Discovery,32482.59,Diego,Logística,Colombia,Inbound,2026-04-26,
+OPP-0164,2026-03-08,2026-04-28,,Proposal,13306.37,Andrea,Logística,Colombia,Inbound,2026-08-29,
+OPP-0585,2026-03-09,2026-06-11,,Discovery,10659.84,Andrea,Retail,México,Evento,2026-06-11,
+OPP-0027,2026-03-10,2026-05-24,2026-07-15,Closed Lost,9186.98,Camilo,Finanzas,Perú,Inbound,2026-04-04,Precio
+OPP-0440,2026-03-11,2026-08-17,,Negotiation,27936.5,Mariana,Retail,México,Partner,2026-04-25,
+OPP-0552,2026-03-13,2026-04-30,,Discovery,11733.18,Diego,Logística,México,Evento,2026-05-18,
+OPP-0094,2026-03-16,2026-05-16,2026-04-17,Closed Won,12636.43,Andrea,Finanzas,Chile,Inbound,2026-04-02,
+OPP-0188,2026-03-18,2026-05-03,,Discovery,33184.91,Andrea,Tecnología,México,Partner,2026-06-10,
+OPP-0379,2026-03-19,2026-06-04,,Discovery,8546.29,Diego,Seguros,Colombia,Referido,2026-08-28,
+OPP-0498,2026-03-21,2026-05-06,,Discovery,15084.19,Sofía,Finanzas,México,Evento,2026-08-20,
+OPP-0374,2026-03-21,2026-07-29,2026-05-23,Closed Won,5591.88,Mariana,Retail,Colombia,Outbound,2026-05-14,
+OPP-0576,2026-03-21,2026-05-30,2026-07-05,Closed Lost,32398.52,Andrea,Logística,México,Partner,2026-06-26,Precio
+OPP-0332,2026-03-22,2026-05-05,2026-04-13,Closed Lost,5367.07,Diego,Retail,México,Outbound,2026-04-02,Sin prioridad
+OPP-0022,2026-03-22,2026-05-09,2026-07-16,Closed Won,3371.54,Andrea,Seguros,Colombia,Referido,2026-04-16,
+OPP-0068,2026-03-23,2026-05-24,2026-06-17,Closed Won,17579.24,Andrea,Logística,México,Referido,2026-06-13,
+OPP-0063,2026-03-24,2026-05-19,,Qualification,11548.74,Andrea,Seguros,México,Referido,2026-05-14,
+OPP-0393,2026-03-24,2026-07-29,,Discovery,23612.28,Andrea,Finanzas,México,Evento,2026-04-22,
+OPP-0201,2026-03-24,2026-04-18,2026-05-27,Closed Lost,32548.63,Diego,Servicios,Colombia,Evento,2026-05-20,Sin prioridad
+OPP-0053,2026-03-25,2026-05-12,2026-07-06,Closed Won,9146.32,Sofía,Finanzas,Perú,Inbound,2026-06-11,
+OPP-0301,2026-03-25,2026-07-25,2026-04-27,Closed Won,8548.75,Mariana,Finanzas,Colombia,Inbound,2026-04-19,
+OPP-0194,2026-03-26,2026-05-26,,Proposal,32758.45,Mariana,Servicios,Perú,Inbound,2026-08-20,
+OPP-0521,2026-03-28,2026-04-26,,Qualification,14650.19,Sofía,Retail,Chile,Inbound,2026-04-15,
+OPP-0044,2026-03-29,2026-06-04,2026-07-20,Closed Won,15303.92,Andrea,Servicios,Chile,Outbound,2026-04-08,
+OPP-0139,2026-04-01,2026-05-06,2026-06-11,Closed Lost,18628.67,Diego,Servicios,México,Evento,2026-06-10,Sin prioridad
+OPP-0268,2026-04-01,2026-05-11,,Qualification,29076.33,Camilo,Servicios,México,Outbound,2026-08-02,
+OPP-0197,2026-04-03,2026-06-20,,Negotiation,7230.44,Diego,Logística,México,Partner,2026-08-30,
+OPP-0199,2026-04-05,2026-07-26,,Proposal,5314.46,Andrea,Retail,México,Inbound,2026-08-28,
+OPP-0169,2026-04-06,2026-08-06,,Discovery,23388.93,Mariana,Logística,México,Referido,2026-04-21,
+OPP-0371,2026-04-06,2026-08-29,,Discovery,17945.55,Sofía,Servicios,México,Outbound,2026-08-02,
+OPP-0487,2026-04-06,2026-06-18,2026-05-19,Closed Lost,45584.7,Camilo,Seguros,Colombia,Inbound,2026-04-19,Sin presupuesto
+OPP-0254,2026-04-08,2026-10-02,2026-05-02,Closed Lost,11524.59,Mariana,Logística,Perú,Referido,2026-04-16,Sin prioridad
+OPP-0077,2026-04-08,2026-08-22,2026-07-01,Closed Lost,14162.3,Mariana,Servicios,México,Outbound,2026-05-02,Precio
+OPP-0294,2026-04-08,2026-09-26,2026-08-16,Closed Won,8852.47,Sofía,Tecnología,México,Outbound,2026-08-07,
+OPP-0066,2026-04-10,2026-09-09,,Negotiation,37651.33,Diego,Logística,Colombia,Evento,2026-06-13,
+OPP-0595,2026-04-12,2026-08-01,2026-08-20,Closed Lost,6218.56,Camilo,Tecnología,Colombia,Inbound,2026-07-13,Precio
+OPP-0321,2026-04-12,2026-07-27,2026-07-30,Closed Lost,17878.16,Sofía,Seguros,Colombia,Referido,2026-06-17,Sin prioridad
+OPP-0403,2026-04-12,2026-05-22,,Discovery,34773.65,Camilo,Tecnología,México,Referido,2026-04-19,
+OPP-0167,2026-04-12,2026-08-30,2026-08-31,Closed Won,7862.81,Andrea,Retail,México,Inbound,2026-04-23,
+OPP-0525,2026-04-13,2026-08-29,2026-05-05,Closed Lost,7780.36,Camilo,Servicios,México,Evento,2026-04-26,No decision
+OPP-0338,2026-04-13,2026-08-28,2026-05-16,Closed Won,7076.73,Andrea,Logística,Colombia,Partner,2026-05-09,
+OPP-0554,2026-04-13,2026-06-15,2026-08-13,Closed Lost,9889.47,Sofía,Retail,México,Partner,2026-05-07,Precio
+OPP-0309,2026-04-14,2026-07-15,2026-06-14,Closed Lost,6643.39,Andrea,Tecnología,México,Referido,2026-04-30,Sin presupuesto
+OPP-0368,2026-04-14,2026-09-27,2026-05-27,Closed Lost,6498.86,Sofía,Tecnología,Colombia,Outbound,2026-05-17,Sin prioridad
+OPP-0088,2026-04-15,2026-07-17,2026-05-28,Closed Lost,30846.84,Mariana,Finanzas,México,Evento,2026-04-21,Sin prioridad
+OPP-0447,2026-04-15,2026-09-21,,Proposal,17277.0,Andrea,Servicios,México,Outbound,2026-06-07,
+OPP-0333,2026-04-16,2026-05-29,,Qualification,4437.16,Andrea,Servicios,México,Referido,2026-08-04,
+OPP-0526,2026-04-16,2026-08-08,,Qualification,16039.23,Diego,Seguros,México,Partner,2026-07-15,
+OPP-0400,2026-04-16,2026-07-13,,Proposal,18521.71,Sofía,Tecnología,Colombia,Evento,2026-05-31,
+OPP-0239,2026-04-17,2026-06-17,,Discovery,4332.13,Diego,Tecnología,Colombia,Outbound,2026-05-28,
+OPP-0226,2026-04-18,2026-06-14,,Proposal,13093.38,Camilo,Tecnología,Perú,Outbound,2026-05-15,
+OPP-0136,2026-04-19,2026-06-17,,Discovery,18149.81,Camilo,Logística,Chile,Referido,2026-08-24,
+OPP-0190,2026-04-20,2026-08-28,2026-08-01,Closed Won,15460.5,Mariana,Retail,Perú,Inbound,2026-04-29,
+OPP-0442,2026-04-20,2026-05-19,,Qualification,8953.35,Diego,Servicios,México,Evento,2026-08-22,
+OPP-0307,2026-04-20,2026-09-13,2026-08-31,Closed Lost,10817.36,Mariana,Finanzas,México,Evento,2026-06-06,Competencia
+OPP-0353,2026-04-21,2026-07-20,2026-07-08,Closed Won,11136.75,Camilo,Retail,Colombia,Referido,2026-04-26,
+OPP-0263,2026-04-21,2026-10-16,2026-05-21,Closed Lost,6040.07,Sofía,Tecnología,Chile,Evento,2026-05-12,Competencia
+OPP-0419,2026-04-22,2026-06-22,2026-05-17,Closed Won,4424.86,Andrea,Seguros,Perú,Partner,2026-05-17,
+OPP-0154,2026-04-23,2026-08-19,,Discovery,14437.07,Mariana,Seguros,México,Inbound,2026-04-28,
+OPP-0271,2026-04-23,2026-06-07,,Proposal,10786.67,Andrea,Tecnología,México,Outbound,2026-05-22,
+OPP-0342,2026-04-24,2026-10-01,2026-06-12,Closed Lost,14245.67,Sofía,Seguros,Colombia,Evento,2026-06-05,Sin presupuesto
+OPP-0495,2026-04-25,2026-10-17,,Qualification,3301.36,Andrea,Retail,México,Referido,2026-08-18,
+OPP-0096,2026-04-25,2026-09-15,,Negotiation,10625.33,Camilo,Retail,Chile,Referido,2026-05-31,
+OPP-0481,2026-04-25,2026-06-04,,Discovery,22236.04,Andrea,Finanzas,México,Outbound,2026-07-25,
+OPP-0450,2026-04-26,2026-09-14,2026-08-07,Closed Lost,15074.38,Diego,Tecnología,Colombia,Referido,2026-05-02,Precio
+OPP-0534,2026-04-27,2026-08-28,2026-07-22,Closed Won,9106.38,Sofía,Seguros,Perú,Outbound,2026-07-12,
+OPP-0299,2026-04-27,2026-07-23,2026-05-24,Closed Lost,67463.73,Mariana,Tecnología,México,Outbound,2026-05-23,Precio
+OPP-0152,2026-04-28,2026-07-03,2026-06-19,Closed Lost,17965.08,Camilo,Tecnología,Colombia,Referido,2026-06-18,Precio
+OPP-0573,2026-04-28,2026-08-31,2026-07-22,Closed Lost,7125.74,Mariana,Seguros,Perú,Inbound,2026-05-23,Sin prioridad
+OPP-0399,2026-04-28,2026-08-23,2026-08-31,Closed Won,6298.32,Andrea,Retail,México,Referido,2026-08-01,
+OPP-0314,2026-04-28,2026-10-12,2026-08-11,Closed Lost,21276.82,Andrea,Logística,Chile,Partner,2026-06-07,Precio
+OPP-0413,2026-04-29,2026-09-21,2026-07-04,Closed Lost,27157.41,Andrea,Finanzas,Chile,Partner,2026-06-08,Sin presupuesto
+OPP-0281,2026-04-30,2026-06-26,2026-07-27,Closed Won,23949.71,Sofía,Servicios,México,Evento,2026-06-15,
+OPP-0143,2026-04-30,2026-09-05,2026-07-12,Closed Lost,4726.47,Andrea,Seguros,México,Evento,2026-07-05,No decision
+OPP-0039,2026-04-30,2026-09-24,,Qualification,9776.04,Camilo,Tecnología,Perú,Outbound,2026-07-18,
+OPP-0111,2026-04-30,2026-10-01,2026-08-23,Closed Won,4145.89,Sofía,Servicios,México,Referido,2026-06-07,
+OPP-0505,2026-05-01,2026-10-01,,Qualification,15390.35,Diego,Retail,México,Partner,2026-07-23,
+OPP-0216,2026-05-02,2026-06-29,,Discovery,12023.04,Sofía,Retail,México,Evento,2026-08-29,
+OPP-0509,2026-05-03,2026-07-12,2026-06-14,Closed Won,17160.65,Sofía,Tecnología,México,Evento,2026-05-16,
+OPP-0206,2026-05-04,2026-07-07,2026-08-31,Closed Lost,3652.58,Sofía,Seguros,Perú,Evento,2026-06-26,Sin prioridad
+OPP-0292,2026-05-04,2026-06-18,,Negotiation,4143.38,Camilo,Servicios,Chile,Referido,2026-05-05,
+OPP-0209,2026-05-05,2026-09-01,2026-06-20,Closed Won,29723.39,Camilo,Finanzas,Colombia,Inbound,2026-05-24,
+OPP-0380,2026-05-06,2026-10-01,,Proposal,3128.97,Camilo,Finanzas,México,Partner,2026-06-23,
+OPP-0211,2026-05-06,2026-08-28,,Qualification,7537.6,Diego,Seguros,México,Evento,2026-08-15,
+OPP-0346,2026-05-09,2026-09-26,2026-08-24,Closed Lost,6879.09,Diego,Finanzas,México,Partner,2026-06-24,Precio
+OPP-0568,2026-05-11,2026-07-22,2026-08-21,Closed Lost,10828.28,Camilo,Tecnología,México,Evento,2026-06-19,Competencia
+OPP-0483,2026-05-11,2026-06-24,,Negotiation,9584.72,Camilo,Finanzas,Chile,Outbound,2026-07-31,
+OPP-0508,2026-05-12,2026-07-02,,Discovery,14949.97,Camilo,Seguros,México,Evento,2026-06-27,
+OPP-0119,2026-05-13,2026-09-25,,Discovery,4183.6,Mariana,Servicios,México,Referido,2026-08-15,
+OPP-0315,2026-05-14,2026-09-11,,Proposal,6462.99,Camilo,Logística,México,Evento,2026-08-29,
+OPP-0384,2026-05-15,2026-09-28,,Negotiation,34272.23,Mariana,Servicios,México,Partner,2026-07-02,
+OPP-0593,2026-05-15,2026-09-12,,Discovery,23001.89,Andrea,Tecnología,Colombia,Referido,2026-05-18,
+OPP-0097,2026-05-15,2026-06-18,2026-08-19,Closed Lost,11207.74,Camilo,Seguros,Perú,Inbound,2026-06-25,Competencia
+OPP-0510,2026-05-16,2026-07-12,2026-06-23,Closed Lost,13064.16,Mariana,Retail,México,Outbound,2026-05-23,Precio
+OPP-0566,2026-05-16,2026-10-06,2026-08-06,Closed Lost,3542.07,Mariana,Seguros,México,Outbound,2026-07-19,Competencia
+OPP-0189,2026-05-16,2026-07-26,2026-07-09,Closed Won,12808.78,Sofía,Tecnología,México,Inbound,2026-05-18,
+OPP-0327,2026-05-17,2026-06-26,2026-08-31,Closed Lost,46273.8,Camilo,Finanzas,Colombia,Referido,2026-07-20,No decision
+OPP-0148,2026-05-18,2026-07-30,2026-06-26,Closed Won,5512.91,Diego,Logística,México,Outbound,2026-06-12,
+OPP-0486,2026-05-18,2026-09-19,,Proposal,14822.35,Camilo,Tecnología,México,Evento,2026-07-05,
+OPP-0326,2026-05-19,2026-07-30,,Negotiation,19733.79,Andrea,Servicios,Colombia,Outbound,2026-08-06,
+OPP-0412,2026-05-19,2026-10-27,2026-08-31,Closed Won,9828.28,Diego,Seguros,Colombia,Inbound,2026-06-24,
+OPP-0567,2026-05-20,2026-07-16,2026-08-02,Closed Lost,13637.83,Camilo,Seguros,México,Evento,2026-05-21,Competencia
+OPP-0078,2026-05-20,2026-07-21,,Negotiation,8900.81,Andrea,Tecnología,México,Evento,2026-06-03,
+OPP-0032,2026-05-20,2026-10-09,,Discovery,3806.01,Mariana,Tecnología,México,Referido,2026-07-23,
+OPP-0363,2026-05-22,2026-10-26,,Discovery,7741.28,Camilo,Logística,Colombia,Inbound,2026-06-19,
+OPP-0142,2026-05-26,2026-11-21,,Discovery,15104.78,Andrea,Servicios,Colombia,Evento,2026-08-08,
+OPP-0339,2026-05-30,2026-11-22,2026-07-09,Closed Lost,6885.12,Camilo,Finanzas,Colombia,Referido,2026-06-01,Precio
+OPP-0009,2026-05-31,2026-08-21,,Discovery,11397.28,Mariana,Seguros,Chile,Partner,2026-06-02,
+OPP-0224,2026-05-31,2026-06-30,2026-07-19,Closed Won,11569.46,Sofía,Seguros,México,Evento,2026-06-19,
+OPP-0102,2026-06-01,2026-10-03,2026-06-21,Closed Lost,11788.98,Sofía,Servicios,Perú,Referido,2026-06-08,Sin prioridad
+OPP-0426,2026-06-01,2026-06-29,,Qualification,2482.39,Andrea,Logística,Chile,Inbound,2026-08-29,
+OPP-0398,2026-06-02,2026-07-11,2026-08-31,Closed Won,10581.27,Andrea,Seguros,Colombia,Partner,2026-07-10,
+OPP-0543,2026-06-03,2026-07-24,2026-08-31,Closed Won,8505.16,Andrea,Servicios,México,Partner,2026-07-15,
+OPP-0052,2026-06-03,2026-10-15,,Discovery,2968.54,Diego,Seguros,México,Inbound,2026-07-15,
+OPP-0523,2026-06-04,2026-09-18,,Proposal,7088.46,Andrea,Finanzas,México,Partner,2026-06-13,
+OPP-0072,2026-06-05,2026-07-27,,Proposal,21450.38,Camilo,Logística,Perú,Partner,2026-06-15,
+OPP-0253,2026-06-05,2026-07-20,,Discovery,15902.45,Andrea,Tecnología,México,Partner,2026-07-12,
+OPP-0564,2026-06-08,2026-07-15,2026-08-31,Closed Won,5890.69,Andrea,Finanzas,Colombia,Outbound,2026-07-23,
+OPP-0469,2026-06-08,2026-09-04,,Qualification,16112.62,Sofía,Retail,Colombia,Inbound,2026-06-29,
+OPP-0349,2026-06-08,2026-07-27,2026-08-16,Closed Won,3122.39,Mariana,Servicios,México,Referido,2026-07-27,
+OPP-0023,2026-06-08,2026-08-15,,Proposal,6312.04,Andrea,Seguros,México,Outbound,2026-08-27,
+OPP-0251,2026-06-09,2026-10-26,,Negotiation,14816.03,Diego,Servicios,México,Partner,2026-06-12,
+OPP-0392,2026-06-09,2026-10-10,2026-07-17,Closed Lost,8125.74,Camilo,Servicios,México,Evento,2026-07-13,Sin presupuesto
+OPP-0230,2026-06-10,2026-11-07,,Proposal,16417.13,Sofía,Tecnología,México,Referido,2026-06-25,
+OPP-0259,2026-06-11,2026-08-12,2026-08-31,Closed Won,41165.91,Diego,Logística,México,Evento,2026-07-26,
+OPP-0411,2026-06-11,2026-09-18,2026-08-31,Closed Lost,14940.97,Andrea,Retail,México,Outbound,2026-08-12,Sin prioridad
+OPP-0544,2026-06-11,2026-09-16,,Negotiation,57262.83,Camilo,Servicios,Chile,Outbound,2026-07-05,
+OPP-0262,2026-06-13,2026-08-15,,Discovery,2539.79,Andrea,Tecnología,Chile,Outbound,2026-07-02,
+OPP-0168,2026-06-14,2026-07-17,2026-08-31,Closed Lost,11487.3,Andrea,Servicios,Perú,Referido,2026-07-19,Competencia
+OPP-0187,2026-06-14,2026-11-05,2026-08-31,Closed Won,4265.58,Diego,Servicios,México,Referido,2026-08-15,
+OPP-0467,2026-06-14,2026-11-09,,Discovery,15469.41,Andrea,Retail,México,Outbound,2026-07-04,
+OPP-0350,2026-06-15,2026-11-03,,Qualification,2275.96,Mariana,Tecnología,Colombia,Referido,2026-08-16,
+OPP-0532,2026-06-15,2026-11-23,2026-08-31,Closed Won,4166.91,Sofía,Tecnología,Colombia,Partner,2026-08-12,
+OPP-0041,2026-06-15,2026-11-11,,Discovery,12092.52,Sofía,Seguros,México,Evento,2026-07-27,
+OPP-0178,2026-06-16,2026-08-09,2026-08-12,Closed Won,6194.22,Andrea,Servicios,México,Outbound,2026-07-13,
+OPP-0287,2026-06-16,2026-10-12,,Discovery,19004.44,Mariana,Seguros,México,Outbound,2026-08-15,
+OPP-0083,2026-06-17,2026-08-09,2026-08-31,Closed Lost,3324.61,Sofía,Seguros,Colombia,Inbound,2026-06-27,Sin presupuesto
+OPP-0533,2026-06-19,2026-08-30,,Negotiation,26941.47,Mariana,Tecnología,México,Evento,2026-07-18,
+OPP-0058,2026-06-19,2026-11-12,2026-07-24,Closed Lost,44585.59,Camilo,Tecnología,México,Evento,2026-07-01,Precio
+OPP-0182,2026-06-20,2026-11-17,,Discovery,15756.51,Diego,Tecnología,México,Inbound,2026-06-23,
+OPP-0273,2026-06-20,2026-08-10,2026-08-31,Closed Won,39637.56,Camilo,Retail,México,Partner,2026-07-01,
+OPP-0536,2026-06-20,2026-10-03,2026-08-31,Closed Won,8070.8,Diego,Servicios,México,Outbound,2026-06-29,
+OPP-0357,2026-06-20,2026-08-31,2026-08-31,Closed Lost,6011.05,Camilo,Tecnología,México,Inbound,2026-08-26,Sin prioridad
+OPP-0390,2026-06-20,2026-09-07,2026-08-31,Closed Won,11184.15,Diego,Seguros,Colombia,Partner,2026-07-21,
+OPP-0457,2026-06-22,2026-11-07,,Proposal,13557.76,Camilo,Finanzas,Colombia,Outbound,2026-07-28,
+OPP-0256,2026-06-23,2026-09-19,,Discovery,9703.12,Sofía,Finanzas,Perú,Outbound,2026-06-25,
+OPP-0522,2026-06-23,2026-08-07,2026-08-31,Closed Won,5946.79,Diego,Finanzas,Chile,Partner,2026-08-07,
+OPP-0408,2026-06-24,2026-09-16,2026-08-22,Closed Lost,11693.82,Diego,Logística,México,Partner,2026-07-24,Sin prioridad
+OPP-0528,2026-06-24,2026-11-16,,Discovery,43952.67,Andrea,Logística,México,Outbound,2026-06-30,
+OPP-0329,2026-06-25,2026-10-11,2026-08-31,Closed Won,4749.72,Camilo,Tecnología,Perú,Inbound,2026-07-18,
+OPP-0118,2026-06-25,2026-08-01,2026-08-12,Closed Lost,18124.62,Mariana,Servicios,México,Referido,2026-07-13,No decision
+OPP-0100,2026-06-25,2026-10-05,,Negotiation,6738.7,Andrea,Servicios,Perú,Inbound,2026-08-05,
+OPP-0241,2026-06-25,2026-08-15,2026-08-31,Closed Lost,29394.62,Camilo,Tecnología,Colombia,Partner,2026-07-26,Competencia
+OPP-0462,2026-06-25,2026-10-10,,Discovery,19619.14,Andrea,Seguros,México,Evento,2026-08-09,
+OPP-0306,2026-06-25,2026-08-14,2026-07-17,Closed Lost,5605.74,Sofía,Retail,Perú,Outbound,2026-06-25,Competencia
+OPP-0414,2026-06-28,2026-09-07,2026-08-31,Closed Lost,2409.46,Diego,Retail,Colombia,Outbound,2026-08-03,Precio
+OPP-0443,2026-06-28,2026-11-30,2026-07-20,Closed Lost,4916.73,Camilo,Logística,México,Outbound,2026-07-19,Precio
+OPP-0074,2026-06-29,2026-10-04,,Proposal,21768.16,Sofía,Retail,Perú,Outbound,2026-08-24,
+OPP-0434,2026-06-29,2026-10-08,,Proposal,2563.76,Camilo,Finanzas,Colombia,Outbound,2026-07-09,
+OPP-0221,2026-06-30,2026-09-19,2026-08-31,Closed Lost,18404.24,Sofía,Logística,México,Evento,2026-07-12,Competencia
+OPP-0018,2026-06-30,2026-08-11,2026-08-31,Closed Won,14157.79,Mariana,Retail,Colombia,Referido,2026-08-28,
+OPP-0157,2026-07-01,2026-09-30,2026-08-31,Closed Lost,2520.65,Mariana,Servicios,Colombia,Outbound,2026-08-29,Competencia
+OPP-0386,2026-07-02,2026-12-16,,Proposal,14291.48,Mariana,Retail,Colombia,Partner,2026-07-18,
+OPP-0436,2026-07-02,2026-08-04,2026-08-31,Closed Won,19786.91,Camilo,Seguros,México,Partner,2026-08-20,
+OPP-0418,2026-07-03,2026-09-18,,Qualification,13771.02,Sofía,Logística,Chile,Partner,2026-08-21,
+OPP-0497,2026-07-04,2026-08-17,,Qualification,8748.4,Sofía,Tecnología,México,Partner,2026-08-07,
+OPP-0198,2026-07-04,2026-12-25,2026-08-07,Closed Won,11010.65,Camilo,Finanzas,México,Referido,2026-08-06,
+OPP-0313,2026-07-04,2026-09-27,2026-08-26,Closed Lost,4443.72,Mariana,Servicios,Perú,Referido,2026-07-26,Sin presupuesto
+OPP-0538,2026-07-05,2026-11-17,2026-08-31,Closed Lost,18961.44,Andrea,Servicios,México,Outbound,2026-07-23,Sin prioridad
+OPP-0365,2026-07-05,2026-12-05,,Proposal,4902.14,Mariana,Seguros,México,Inbound,2026-07-12,
+OPP-0501,2026-07-06,2026-08-26,2026-08-31,Closed Lost,28193.79,Diego,Tecnología,México,Evento,2026-07-25,No decision
+OPP-0120,2026-07-06,2026-08-02,2026-08-31,Closed Lost,14593.75,Camilo,Seguros,Perú,Evento,2026-08-05,Sin presupuesto
+OPP-0480,2026-07-08,2026-10-23,2026-08-31,Closed Lost,6786.93,Andrea,Seguros,Perú,Partner,2026-07-16,Sin prioridad
+OPP-0310,2026-07-08,2026-12-01,,Negotiation,12797.58,Mariana,Finanzas,Perú,Outbound,2026-07-18,
+OPP-0322,2026-07-08,2026-08-09,2026-08-05,Closed Won,10388.85,Camilo,Servicios,México,Inbound,2026-07-08,
+OPP-0516,2026-07-09,2026-08-14,2026-08-31,Closed Lost,10213.35,Mariana,Tecnología,México,Outbound,2026-08-16,Precio
+OPP-0171,2026-07-09,2026-11-29,,Negotiation,20539.16,Sofía,Finanzas,México,Evento,2026-08-05,
+OPP-0583,2026-07-09,2026-09-16,2026-08-31,Closed Lost,9096.16,Sofía,Servicios,Colombia,Evento,2026-08-31,Sin prioridad
+OPP-0460,2026-07-09,2026-09-05,,Negotiation,3662.84,Camilo,Finanzas,México,Referido,2026-07-22,
+OPP-0258,2026-07-10,2026-10-05,2026-08-31,Closed Won,9466.25,Camilo,Retail,Chile,Partner,2026-08-05,
+OPP-0580,2026-07-11,2026-09-18,2026-08-31,Closed Won,34263.53,Diego,Tecnología,México,Referido,2026-07-14,
+OPP-0588,2026-07-12,2026-11-10,,Discovery,10591.1,Andrea,Tecnología,México,Evento,2026-08-04,
+OPP-0218,2026-07-13,2026-08-07,2026-08-31,Closed Lost,8569.8,Sofía,Seguros,México,Partner,2026-07-22,Sin presupuesto
+OPP-0087,2026-07-13,2026-08-09,2026-08-31,Closed Won,6886.28,Mariana,Logística,Perú,Partner,2026-08-04,
+OPP-0581,2026-07-14,2026-09-29,,Negotiation,9221.31,Mariana,Tecnología,Colombia,Evento,2026-08-17,
+OPP-0376,2026-07-14,2026-10-28,,Negotiation,7845.51,Sofía,Seguros,Chile,Outbound,2026-07-18,
+OPP-0010,2026-07-14,2026-11-13,,Discovery,9807.51,Camilo,Logística,Chile,Outbound,2026-08-01,
+OPP-0243,2026-07-14,2026-11-03,2026-08-31,Closed Lost,33554.52,Sofía,Retail,Perú,Inbound,2026-08-15,Sin prioridad
+OPP-0033,2026-07-15,2026-09-04,2026-08-31,Closed Won,15223.23,Camilo,Logística,Colombia,Partner,2026-08-06,
+OPP-0133,2026-07-15,2027-01-09,2026-08-31,Closed Won,11018.34,Sofía,Tecnología,México,Inbound,2026-07-19,
+OPP-0359,2026-07-15,2026-11-21,2026-08-31,Closed Won,19431.96,Sofía,Logística,México,Partner,2026-08-05,
+OPP-0001,2026-07-16,2026-10-31,2026-08-11,Closed Lost,7546.89,Camilo,Finanzas,Chile,Partner,2026-08-04,Sin presupuesto
+OPP-0172,2026-07-16,2026-10-11,2026-08-31,Closed Won,18727.14,Mariana,Tecnología,México,Referido,2026-07-31,
+OPP-0007,2026-07-17,2026-10-09,,Proposal,2944.81,Andrea,Servicios,México,Evento,2026-07-22,
+OPP-0196,2026-07-17,2026-09-22,2026-08-31,Closed Won,25983.29,Camilo,Servicios,México,Outbound,2026-08-09,
+OPP-0431,2026-07-18,2026-09-30,,Proposal,4997.16,Diego,Seguros,México,Outbound,2026-08-28,
+OPP-0246,2026-07-18,2026-10-25,,Negotiation,9670.98,Diego,Finanzas,Perú,Evento,2026-08-25,
+OPP-0280,2026-07-19,2026-12-14,,Proposal,8719.72,Andrea,Seguros,México,Referido,2026-08-03,
+OPP-0439,2026-07-19,2026-12-17,,Negotiation,5611.53,Sofía,Seguros,Perú,Referido,2026-08-01,
+OPP-0127,2026-07-20,2026-10-22,,Discovery,10625.28,Diego,Tecnología,Chile,Outbound,2026-08-21,
+OPP-0217,2026-07-20,2026-11-26,,Proposal,12450.11,Sofía,Retail,México,Referido,2026-07-29,
+OPP-0069,2026-07-21,2026-10-06,,Proposal,5020.97,Mariana,Finanzas,Colombia,Referido,2026-07-31,
+OPP-0518,2026-07-25,2027-01-19,2026-08-31,Closed Won,12305.63,Andrea,Logística,México,Evento,2026-07-27,
+OPP-0045,2026-07-25,2026-09-26,2026-08-31,Closed Lost,17154.56,Diego,Seguros,Chile,Evento,2026-08-19,Precio
+OPP-0387,2026-07-25,2026-09-12,,Negotiation,6820.7,Andrea,Servicios,México,Referido,2026-08-30,
+OPP-0036,2026-07-26,2026-09-16,2026-08-31,Closed Won,36082.34,Andrea,Finanzas,Colombia,Referido,2026-08-04,
+OPP-0279,2026-07-26,2026-09-18,2026-08-31,Closed Lost,16165.31,Camilo,Retail,Perú,Referido,2026-08-13,Precio
+OPP-0150,2026-07-29,2026-10-24,2026-08-31,Closed Won,9441.1,Andrea,Servicios,México,Inbound,2026-08-29,
+OPP-0542,2026-07-30,2026-10-16,2026-08-31,Closed Lost,16638.99,Camilo,Seguros,México,Partner,2026-08-16,Precio
+OPP-0546,2026-07-31,2026-09-20,2026-08-31,Closed Lost,28506.14,Andrea,Servicios,Colombia,Outbound,2026-08-01,Precio
+OPP-0584,2026-07-31,2026-11-29,,Negotiation,16599.48,Diego,Retail,México,Inbound,2026-08-22,
+OPP-0574,2026-08-01,2027-01-14,,Proposal,14907.59,Camilo,Finanzas,México,Evento,2026-08-17,
+OPP-0352,2026-08-03,2026-10-11,2026-08-31,Closed Lost,29850.83,Sofía,Seguros,Perú,Evento,2026-08-11,Sin presupuesto
+OPP-0397,2026-08-03,2026-10-01,2026-08-31,Closed Lost,11095.75,Sofía,Servicios,México,Referido,2026-08-29,Sin presupuesto
+OPP-0562,2026-08-04,2027-01-08,2026-08-31,Closed Lost,19668.22,Andrea,Finanzas,México,Partner,2026-08-13,Precio
+OPP-0056,2026-08-04,2026-11-11,2026-08-31,Closed Won,7620.19,Diego,Seguros,México,Referido,2026-08-11,
+OPP-0250,2026-08-04,2026-12-06,,Negotiation,8865.17,Mariana,Retail,Chile,Partner,2026-08-09,
+OPP-0328,2026-08-06,2026-12-04,,Qualification,47171.68,Camilo,Tecnología,Colombia,Evento,2026-08-31,
+OPP-0117,2026-08-06,2026-12-26,,Discovery,15056.4,Mariana,Retail,Perú,Partner,2026-08-06,
+OPP-0147,2026-08-07,2026-09-25,2026-08-31,Closed Lost,5418.47,Andrea,Finanzas,Colombia,Evento,2026-08-19,Precio
+OPP-0385,2026-08-08,2027-01-06,2026-08-31,Closed Won,6478.37,Diego,Servicios,México,Evento,2026-08-19,
+OPP-0138,2026-08-09,2027-01-03,2026-08-31,Closed Won,14690.42,Andrea,Servicios,México,Partner,2026-08-09,
+OPP-0454,2026-08-11,2027-01-17,2026-08-31,Closed Won,7679.1,Andrea,Logística,México,Referido,2026-08-28,
+OPP-0429,2026-08-11,2027-01-25,,Negotiation,3698.02,Camilo,Seguros,México,Evento,2026-08-14,
+OPP-0369,2026-08-12,2027-01-07,,Proposal,11721.05,Andrea,Tecnología,México,Referido,2026-08-26,
+OPP-0170,2026-08-12,2027-01-31,2026-08-31,Closed Won,7695.6,Diego,Retail,Perú,Referido,2026-08-28,
+OPP-0272,2026-08-12,2026-10-07,2026-08-31,Closed Lost,11530.3,Andrea,Finanzas,México,Evento,2026-08-24,Sin prioridad
+OPP-0540,2026-08-13,2026-11-15,2026-08-31,Closed Won,18384.42,Sofía,Tecnología,México,Referido,2026-08-19,
+OPP-0300,2026-08-13,2027-01-16,2026-08-31,Closed Won,42076.9,Camilo,Tecnología,Colombia,Partner,2026-08-15,
+OPP-0233,2026-08-13,2026-09-28,,Proposal,25943.37,Sofía,Logística,México,Partner,2026-08-20,
+OPP-0478,2026-08-14,2027-01-01,,Discovery,60662.92,Sofía,Servicios,México,Inbound,2026-08-21,
+OPP-0415,2026-08-14,2026-10-16,2026-08-31,Closed Lost,2696.87,Sofía,Seguros,México,Referido,2026-08-23,Competencia
+OPP-0410,2026-08-16,2027-02-08,2026-08-31,Closed Won,36917.86,Sofía,Tecnología,México,Partner,2026-08-18,
+OPP-0303,2026-08-17,2026-10-20,2026-08-31,Closed Lost,5026.97,Camilo,Servicios,Chile,Referido,2026-08-22,Competencia
+OPP-0104,2026-08-18,2027-01-24,,Qualification,10652.49,Diego,Servicios,México,Partner,2026-08-27,
+OPP-0381,2026-08-19,2026-11-22,,Qualification,10162.64,Mariana,Servicios,México,Partner,2026-08-30,
+OPP-0465,2026-08-19,2027-01-14,2026-08-31,Closed Lost,21614.32,Camilo,Seguros,México,Inbound,2026-08-24,Sin prioridad
+OPP-0575,2026-08-19,2026-09-30,2026-08-31,Closed Won,4224.71,Andrea,Servicios,Chile,Partner,2026-08-20,
