@@ -25,14 +25,15 @@ Este proyecto convierte una exportación de CRM en un diagnóstico accionable.
 - Recomendaciones automáticas basadas en reglas transparentes.
 - Dashboard interactivo en Streamlit.
 
-[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Jcasaran/diagnostico-inteligente-ventas?quickstart=1)
+## Personalización desde el dashboard
 
-## Ejecutar completamente desde GitHub
+La aplicación permite trabajar sin editar el código:
 
-1. Pulsa el botón **Abrir en GitHub Codespaces**.
-2. Selecciona **Create codespace**.
-3. Espera mientras GitHub instala las dependencias.
-4. El dashboard se iniciará automáticamente y GitHub abrirá una pestaña con la aplicación.
+- Agregar ejecutivos al equipo comercial.
+- Elegir países desde un catálogo de Latinoamérica y agregar nuevos mercados.
+- Registrar oportunidades con monto, etapa, industria, origen y fechas.
+- Filtrar los indicadores por ejecutivo y país.
+- Descargar el CSV actualizado para conservar los cambios de la sesión.
 
 ## Vista rápida
 
