@@ -30,6 +30,7 @@ Este proyecto convierte una exportación de CRM en un diagnóstico accionable.
 La aplicación permite trabajar sin editar el código:
 
 - Agregar ejecutivos al equipo comercial.
+- Eliminar ejecutivos y reasignar sus oportunidades de forma segura.
 - Elegir países desde un catálogo de Latinoamérica y agregar nuevos mercados.
 - Registrar oportunidades con monto, etapa, industria, origen y fechas.
 - Filtrar los indicadores por ejecutivo y país.
